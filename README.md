@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PCollinx
-- 👀 I’m interested in Javascript, python and machine learning
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python and machine learning projects
+- 👋 Hi, I’m @CollinsPaul
+- 👀 I’m interested in frontend development, Javascript, python and machine learning
+- 🌱 I’m currently learning Javascript and React
+- 💞️ I’m looking to collaborate on web Apps 
 - 📫 reach me on twitter @PaulCollizo
 
 <!---
